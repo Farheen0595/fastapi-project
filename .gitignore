@@ -1,0 +1,26 @@
+# --- Python cache and compiled files ---
+__pycache__/
+*.py[cod]
+*.so
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+
+# --- Environment files ---
+.env
+
+# --- OS specific ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- IDE / Editor folders ---
+.vscode/
+.idea/
+
+# --- Jupyter notebook checkpoints ---
+.ipynb_checkpoints/
